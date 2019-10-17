@@ -1,5 +1,6 @@
 # fall19-SevalAta
 fall19-SevalAta created by GitHub Classroom
+https://sevalata.github.io/fall19-SevalAta/
 
 # Progress Journal
 

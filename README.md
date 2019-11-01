@@ -6,4 +6,4 @@ https://sevalata.github.io/fall19-SevalAta/
 
 ## Homework II (November 1)
 
-[This](/files/IE 582 - HW2 - 2019-SevalAta.html) is my report of second homework.
+[Here](/files/IE 582 - HW2 - 2019-SevalAta.html) is my report of second homework.
